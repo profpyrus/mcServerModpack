@@ -28,7 +28,7 @@ jobs:
         with:
           filename: 'Unser_Server_Modpack.mrpack'
           directory: ${{ github.workspace }}
-          path: packfiles
+          path: packfiles/*
 
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
