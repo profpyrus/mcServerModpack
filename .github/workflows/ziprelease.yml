@@ -27,10 +27,10 @@ jobs:
         uses: TheDoctor0/zip-release@0.7.6
         with:
           filename: 'Unser_Server_Modpack.mrpack'
-          directory: ${{ github.workspace }}
-          path: packfiles/*
+          directory: ${{ github.workspace }}/packfiles
 
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
         with:
-          file: ${{ github.workspace }}/Unser_Server_Modpack.mrpack
+          artifacts: '${{ github.workspace }}/packfiles/Unser_Server_Modpack.mrpack'
+          token: ${{ secrets.GITHUB_TOKEN }}
