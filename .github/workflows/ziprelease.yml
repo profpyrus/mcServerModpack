@@ -23,9 +23,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
       - name: Zip Release
         uses: TheDoctor0/zip-release@0.7.6
         with:
           filename: Unser\ Server\ Modpack.mrpack
           path: ${{ github.workspace }}/packfiles
+
+      - name: Attach file to release
+        uses: svenstaro/upload-release-action@2.9.0
+        with:
+          file: ./Unser\ Server\ Modpack.mrpack
+          
