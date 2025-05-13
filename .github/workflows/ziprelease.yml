@@ -32,5 +32,4 @@ jobs:
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
         with:
-          artifacts: '${{ github.workspace }}/packfiles/Unser_Server_Modpack.mrpack'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: ${{ github.workspace }}/packfiles/Unser_Server_Modpack.mrpack
