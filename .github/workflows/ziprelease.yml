@@ -27,7 +27,7 @@ jobs:
         uses: TheDoctor0/zip-release@0.7.6
         with:
           filename: Unser\ Server\ Modpack.mrpack
-          path: ${{ github.workspace }}/packfiles
+          directory: ${{ github.workspace }}/packfiles
 
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
