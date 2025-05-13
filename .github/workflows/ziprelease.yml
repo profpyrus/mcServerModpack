@@ -26,7 +26,7 @@ jobs:
       - name: Zip Release
         uses: TheDoctor0/zip-release@0.7.6
         with:
-          filename: 'Unser Server Modpack.mrpack'
+          filename: 'Unser_Server_Modpack.mrpack'
           path: ${{ github.workspace }}/packfiles
 
       - name: XDTesting Print Directory Structure
@@ -35,4 +35,4 @@ jobs:
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
         with:
-          file: 'Unser Server Modpack.mrpack'
+          file: 'Unser_Server_Modpack.mrpack'
