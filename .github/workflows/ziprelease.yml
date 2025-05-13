@@ -28,4 +28,4 @@ jobs:
         uses: TheDoctor0/zip-release@0.7.6
         with:
           filename: Unser\ Server\ Modpack.mrpack
-          path: $GITHUB_WORKSPACE/packfiles
+          path: $GITHUB_WORKSPACE/mcServerModpack/packfiles
