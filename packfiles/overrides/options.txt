@@ -23,7 +23,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:12
+renderDistance:8
 simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/animated-items-1_21_4 - 1_4_2.zip","file/EvenBetterEnchants_v2_r1.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/animated-items-1_21_4 - 1_4_2.zip","file/Re-covered.zip"]
 incompatibleResourcePacks:["appleskin","balm","clientsort","jade","sounds","yet_another_config_lib_v3","file/animated-items-1_21_4 - 1_4_2.zip"]
 lastServer:
 lang:en_us

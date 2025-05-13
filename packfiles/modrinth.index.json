@@ -921,21 +921,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/6udpuGCH/versions/mXaMyhFE/EvenBetterEnchants_v2_r1.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 242292,
-      "hashes": {
-        "sha1": "e1bb05c0a9d61c345bf020d50f0d13d27a233752",
-        "sha512": "ceababf87d3207819cb90a8dd6e9f494976ecd8f70afed4c01b908805bbb43673fa6ebd2deff9f168f627941104545d4cfa15e50fcf0d416c60dc3117c02a1ab"
-      },
-      "path": "resourcepacks/EvenBetterEnchants_v2_r1.zip"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/uBBepXuH/versions/GPYgjIsc/animated-items-1_21_4%20-%201_4_2.zip"
       ],
       "env": {
@@ -978,6 +963,21 @@
         "sha512": "92293b8de3ed75ee85234b20f94ca7f821ac64bf6d4476c4b1a15b65deaced797b76d62248a5cac747eeb6699ab54c0b022ba1e9ffb6a96b51dbc3f11019ded4"
       },
       "path": "shaderpacks/rethinking-voxels_r0.1-beta8.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/6gN7YVi7/versions/fSRRUZQU/Re-covered.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 126122,
+      "hashes": {
+        "sha1": "5d25fe643a6b898cbc0355a191c1a0a4a7985e07",
+        "sha512": "8e3572857c8618d42703e75fd6a00ea1c32fe56968490caaf733d1a4bf31e725a7ca12c6bd7991ddbeca1c3595144e09a3f1c9fadd73edd488ed447ff535336d"
+      },
+      "path": "resourcepacks/Re-covered.zip"
     }
   ],
   "formatVersion": 1,
