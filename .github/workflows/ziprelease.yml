@@ -29,6 +29,9 @@ jobs:
           filename: Unser\ Server\ Modpack.mrpack
           directory: ${{ github.workspace }}/packfiles
 
+      - name: XDTesting Print Directory Structure
+        uses: FiorelaCiroku/XDTesting-Print-Directory-Structure@v1.0.2
+
       - name: Attach file to release
         uses: svenstaro/upload-release-action@2.9.0
         with:
