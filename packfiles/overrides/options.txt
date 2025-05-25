@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/animated-items-1_21_4 - 1_4_2.zip","file/Re-covered.zip","file/visuals_1.0.zip","file/Icons v.1.11.4.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/animated-items-1_21_4 - 1_4_2.zip","file/Re-covered.zip","file/visuals_1.0.zip","file/Icons v.1.11.4.zip","file/Glowing Enchanted Tools.zip","file/visuals_1.0.zip"]
 incompatibleResourcePacks:["appleskin","balm","clientsort","jade","sounds","yet_another_config_lib_v3","file/animated-items-1_21_4 - 1_4_2.zip"]
 lastServer:
 lang:en_us
