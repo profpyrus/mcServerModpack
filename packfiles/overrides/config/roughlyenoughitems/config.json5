@@ -9,12 +9,12 @@
 		"keyBindings": {
 			"useNativeKeybinds": false,
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"keyCode": "key.keyboard.r",
+				"modifier": 2
 			},
 			"usageKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"keyCode": "key.keyboard.u",
+				"modifier": 2
 			},
 			"hideKeybind": {
 				"keyCode": "key.keyboard.o",
@@ -29,16 +29,16 @@
 				"modifier": 0
 			},
 			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"keyCode": "key.keyboard.f",
+				"modifier": 2
 			},
 			"copyRecipeIdentifierKeybind": {
 				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"keyCode": "key.keyboard.a",
+				"modifier": 2
 			},
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.f8",
