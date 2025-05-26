@@ -216,6 +216,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/rcTfTZr3/versions/goZ9pCqI/PresenceFootsteps-1.11.0%2B1.21.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 5690079,
+      "hashes": {
+        "sha1": "fa5c28c44ec39f6a9a14a98562d2567edb22973b",
+        "sha512": "051c8e7647a5af38a3d248fdc3a8192ab0ac21f9d294d2ae25cbd985e28795a92fc579bcf93963c6cdd51657d2935bef89f2a5e4a880098d6bdf59c4d232d702"
+      },
+      "path": "mods/PresenceFootsteps-1.11.0+1.21.5.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/QAGBst4M/versions/xsg21CnF/PuzzlesLib-v21.5.10-1.21.5-Fabric.jar"
       ],
       "env": {
@@ -513,6 +528,21 @@
         "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
       },
       "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/jHYasDzM/defaultoptions-fabric-1.21.5-21.5.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 91819,
+      "hashes": {
+        "sha1": "622c2b518122c64586569c70feeba13ed255d51d",
+        "sha512": "8c45166c58a961a24d558cc260bae8c97fbfc0c07953d68ceb7938958335aa25ec2e0a194da03f84eeb2ffcccd783eeddbc0456b66f94e8b5ac5d6a9e7ea173b"
+      },
+      "path": "mods/defaultoptions-fabric-1.21.5-21.5.1.jar"
     },
     {
       "downloads": [
@@ -1328,5 +1358,5 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Unser Server Pack",
-  "versionId": "1.0.0"
+  "versionId": "1.1.1"
 }
